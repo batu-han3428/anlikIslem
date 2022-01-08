@@ -1,0 +1,9 @@
+C:\Users\batu_\source\repos\topluVeriGonderim\topluVeriGonderim\bin\Debug\topluVeriGonderim.exe
+C:\Users\batu_\source\repos\topluVeriGonderim\topluVeriGonderim\bin\Debug\topluVeriGonderim.pdb
+C:\Users\batu_\source\repos\topluVeriGonderim\topluVeriGonderim\obj\Debug\topluVeriGonderim.csproj.AssemblyReference.cache
+C:\Users\batu_\source\repos\topluVeriGonderim\topluVeriGonderim\obj\Debug\topluVeriGonderim.Form1.resources
+C:\Users\batu_\source\repos\topluVeriGonderim\topluVeriGonderim\obj\Debug\topluVeriGonderim.Properties.Resources.resources
+C:\Users\batu_\source\repos\topluVeriGonderim\topluVeriGonderim\obj\Debug\topluVeriGonderim.csproj.GenerateResource.cache
+C:\Users\batu_\source\repos\topluVeriGonderim\topluVeriGonderim\obj\Debug\topluVeriGonderim.csproj.CoreCompileInputs.cache
+C:\Users\batu_\source\repos\topluVeriGonderim\topluVeriGonderim\obj\Debug\topluVeriGonderim.exe
+C:\Users\batu_\source\repos\topluVeriGonderim\topluVeriGonderim\obj\Debug\topluVeriGonderim.pdb
